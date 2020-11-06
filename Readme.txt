@@ -1,0 +1,1 @@
+A few disclaimers about the information supplied include:1.The system implements literal word for word substitutions and does not attempt to translate phrases.2.The text to speech functionality implemented uses a voice that haspoor pronunciation of Spanish words.

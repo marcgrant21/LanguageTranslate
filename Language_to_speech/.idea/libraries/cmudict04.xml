@@ -1,0 +1,10 @@
+<component name="libraryTable">
+  <library name="cmudict04">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/dict/cmudict04.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+    <jarDirectory url="jar://$PROJECT_DIR$/dict/cmudict04.jar!/" recursive="false" />
+  </library>
+</component>
